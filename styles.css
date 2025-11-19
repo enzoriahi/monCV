@@ -1,13 +1,67 @@
- 
- h1{
-    color:teal;
-}
-body{
-    color:rgb(120, 0, 0);
-}
-em{
-    color:#45A1BB;
+header{
+    color:rgb(0, 0, 0);
+    height: 100%;
+    display: flex;
+    align-items: flex-end;
+    justify-content : space-between;
 }
 html{
-    background-color: rgb(184, 176, 176);
+    background-color: rgb(224, 219, 219);
+    height: 100%;
+}
+main{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.main-div{
+    background-color: rgb(196, 188, 188) ;
+    height: 200px;
+    width: 100%;
+    border: 1px solid black;
+    margin-left : 350px;
+}
+#h2{
+    color:darkblue
+}
+.main-h2{
+    margin-left : -1180px;
+}
+.div-h2{
+    padding-top : -200px;
+}
+#main-div2{
+    background-color: rgb(196, 188, 188) ;
+    height: 200px;
+    width: 650px;
+    border: 1px solid black;
+    margin-left : -650px;
+}
+#main-div3{
+    background-color: rgb(196, 188, 188) ;
+    height: 200px;
+    width: 550px;
+    border: 1px solid black;
+    margin: -202px;
+    margin-right: -900px;
+
+}
+#main-div4{
+    background-color: rgb(196, 188, 188) ;
+    height: 200px;
+    width: 650px;
+    border: 1px solid black;
+    margin: 250px;
+    margin-right: 900px;
+
+}
+#main-div5{
+    background-color: rgb(196, 188, 188) ;
+    height: 200px;
+    width: 250px;
+    border: 1px solid black;
+    margin: -452px;
+    margin-right: -850px;
+
 }
