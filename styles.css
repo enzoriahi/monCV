@@ -58,10 +58,19 @@ main{
 }
 #main-div5{
     background-color: rgb(196, 188, 188) ;
-    height: 200px;
+    height: 150px;
     width: 250px;
     border: 1px solid black;
     margin: -452px;
     margin-right: -850px;
+
+}
+#main-div6{
+    background-color: rgb(196, 188, 188) ;
+    height: 160px;
+    width: 300px;
+    border: 1px solid black;
+    margin: 300px;
+    margin-right: -750px;
 
 }
